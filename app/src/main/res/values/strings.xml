@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Start</string>
+    <string name="login_name">登录</string>
+    <string name="register_name">注册</string>
+    <string name="bluetooth_name">蓝牙采集</string>
+    <string name="socket_name">服务测试</string>
+    <string name="location_name">在线定位</string>
+    <string name="index_name">首页</string>
+    <string name="register">请填写手机号进行注册，注册成功后系统自动跳转到登录页面（<font color="#ff0000">初始密码为123456</font>）\n<font color="#ff0000">请及时更改账号密码，以防账号不能使用</font>
+    </string>
+</resources>
